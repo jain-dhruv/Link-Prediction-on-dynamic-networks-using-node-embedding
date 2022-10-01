@@ -1,6 +1,6 @@
 # Link-Prediction-on-dynamic-networks-using-node-embedding
 
-Link Prediciton is a task in Social Network Analysis in which we try to predict whether a link exist between two nodes in a given graph on the basis of already existing links. There are various method to predict links, however in this repository we have node embedding technique specifically Node2Vec which is similar to Word2Vec used in Natural language processing.Cancel changes
+Link Prediciton is a task in Social Network Analysis in which we try to predict whether a link exist between two nodes in a given graph on the basis of already existing links. There are various method to predict links, however in this repository we have node embedding technique specifically Node2Vec which is similar to Word2Vec used in Natural language processing.
 
 In dynamic networks the links changes between the nodes with time hence it is quite complex in comparison to Static Networks. Thus, in dynamuic networks dataset timestamps are present for the already existing links.
 
